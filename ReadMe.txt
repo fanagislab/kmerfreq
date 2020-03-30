@@ -22,3 +22,6 @@ Input is a library file that contains the path of all the input sequence files i
 kmerfreq was initially developed for counting k-mer frequency from sequencing data in de novo genome projects, in order to estimate the genomic profile such as genome size, repeat content, heterozygous rate, et al, before the assembly process. It was described in the GCE paper on how to decide the kmer size for various data set and the potential applications for kmers:
 
 Binghang Liu, Yujian Shi, Jianying Yuan, et al. and Wei Fan*. Estimation of genomic characteristics by analyzing k-mer frequency in de novo genome project. arXiv.org arXiv: 1308.2012. (2013)
+
+Hengchao Wang, Bo Liu, Yan Zhang, Fan Jiang, Yuwei Ren, Lijuan Yin, Hangwei Liu, Sen Wang, Wei Fan. Estimation of genome size using k-mer frequencies from corrected long reads. arXiv:2003.11817 [q-bio.GN] (2020)
+
